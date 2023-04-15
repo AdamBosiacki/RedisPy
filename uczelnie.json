@@ -1,0 +1,4 @@
+{ "uczelnie": [ { "name": "Politechnika Poznanska", "type": "uczelnia", "miasto": "Poznań" },
+{ "name": "UAM2", "type": "uczelnia222", "miasto": "Poznań" },
+{ "name": "CDV2", "type": "uczelnia", "miasto": "Poznań" },
+{ "name": "Politechnika Gdańska", "type": "uczelnia", "miasto": "Gdansk" }] }
